@@ -1,0 +1,14 @@
+# Windows
+Thumbs.db
+Desktop.ini
+*.swp
+*.swo
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.env
+
+# macOS
+.DS_Store
